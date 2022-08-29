@@ -73,4 +73,4 @@ source $SETUPFILES/path.zsh
     $ ./setup.sh
     ```
 ## Applications
-Here I have notes for specific applications that need further setup: 1Password, iTerm, Dropbox, any fonts I use to install, etc
+Here you can make notes for specific applications that need further setup: 1Password, iTerm, Dropbox, any fonts to install, etc
